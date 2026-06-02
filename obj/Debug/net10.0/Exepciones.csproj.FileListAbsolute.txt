@@ -1,0 +1,14 @@
+C:\Exepciones\Exepciones\obj\Debug\net10.0\Exepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exepciones\Exepciones\obj\Debug\net10.0\Exepciones.AssemblyInfoInputs.cache
+C:\Exepciones\Exepciones\obj\Debug\net10.0\Exepciones.AssemblyInfo.cs
+C:\Exepciones\Exepciones\obj\Debug\net10.0\Exepciones.csproj.CoreCompileInputs.cache
+C:\Exepciones\Exepciones\bin\Debug\net10.0\Exepciones.exe
+C:\Exepciones\Exepciones\bin\Debug\net10.0\Exepciones.deps.json
+C:\Exepciones\Exepciones\bin\Debug\net10.0\Exepciones.runtimeconfig.json
+C:\Exepciones\Exepciones\bin\Debug\net10.0\Exepciones.dll
+C:\Exepciones\Exepciones\bin\Debug\net10.0\Exepciones.pdb
+C:\Exepciones\Exepciones\obj\Debug\net10.0\Exepciones.dll
+C:\Exepciones\Exepciones\obj\Debug\net10.0\refint\Exepciones.dll
+C:\Exepciones\Exepciones\obj\Debug\net10.0\Exepciones.pdb
+C:\Exepciones\Exepciones\obj\Debug\net10.0\Exepciones.genruntimeconfig.cache
+C:\Exepciones\Exepciones\obj\Debug\net10.0\ref\Exepciones.dll
